@@ -1,4 +1,4 @@
-﻿# ☕ Exercícios de Programação Orientada a Objetos — Java
+# ☕ Exercícios de Programação Orientada a Objetos — Java
 
 Repositório criado para armazenar exercícios e atividades acadêmicas desenvolvidos durante os estudos de **Programação Orientada a Objetos (POO) em Java**.
 
@@ -56,5 +56,18 @@ Exercício envolvendo atributos, encapsulamento e método para aumento salarial.
 
 Exercício envolvendo vetores, objetos e métodos para análise dos alunos.
 
-## 🛠️ Tecnol
+## 🛠️ Tecnologias
 
+* Java
+* Programação Orientada a Objetos
+* Visual Studio Code
+* Git
+* GitHub
+
+## 🎯 Objetivo
+
+Praticar os fundamentos da Programação Orientada a Objetos e desenvolver uma base sólida em Java, aplicando os conceitos estudados em exercícios práticos.
+
+---
+
+**Projeto acadêmico — Ciência da Computação**
